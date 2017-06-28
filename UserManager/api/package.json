@@ -1,0 +1,14 @@
+{
+  "name": "user-manager-api",
+  "version": "0.0.1",
+  "description": "Api for presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szymon Morawski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
