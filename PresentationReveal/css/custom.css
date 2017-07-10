@@ -9,3 +9,10 @@ h2 {
 .green {
     color: green !important;
 }
+
+.smaller p {
+    font-size: 75%;
+}
+.smaller a {
+    font-size: 50%;
+}
